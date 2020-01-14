@@ -1,7 +1,7 @@
 // LINHA DE CÓDIGO OU SENTENÇA DE CÓDIGO
 console.log("linha de código")
 
-// BLOCO (AGRUPA SENTENÇA DE CÓDIGO)
+// BLOCO (AGRUPA SENTENÇAS DE CÓDIGO)
 {
     {
         let top = "top"
