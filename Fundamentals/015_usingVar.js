@@ -4,7 +4,7 @@
         {
             var topmeistre = "monk"
             {
-                var whatIf = "what If???"
+                var whatIf = "what if???"
                 console.log(topmeistre)
             }
         }
@@ -18,5 +18,12 @@ function test() {
 }
 
 test()
-console.log(local)
 
+
+// VAR SCOPE
+var number = 1
+{
+    var number = 2
+    console.log('dentro= ' + number)
+}
+console.log('fora= ' + number)
