@@ -2,6 +2,6 @@
 let number = 1
 {
     let number = 2
-    console.log('dentro = '+number)
+    console.log('dentro = ' + number)
 }
-console.log('fora = '+number)
+console.log('fora = ' + number)
